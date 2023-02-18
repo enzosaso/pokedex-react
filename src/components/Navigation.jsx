@@ -25,7 +25,7 @@ export const Navigation = () => {
             <div className='flex md:absolute md:inset-y-0 md:left-0 lg:static xl:col-span-2'>
               <div className='flex flex-shrink-0 items-center'>
                 <Link to='/' className='logo'>
-                  <img src='/images/logo.svg' alt='Logo Pokedex' className='block h-10 w-auto' />
+                  <img src='images/logo.svg' alt='Logo Pokedex' className='block h-10 w-auto' />
                 </Link>
               </div>
             </div>
